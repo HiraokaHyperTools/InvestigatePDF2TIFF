@@ -2,7 +2,7 @@
 
 ## 実験結果
 
-| tiffBpp | tiffCompress  | tiff2pdf | pdfImageColor | pdfImageComp | pdfImageBpc | pdfImageInterp | pdfImageSize | pdfImageRatio |
+| tiffBpp | tiff<br>Compress  | tiff2pdf | pdf<br>ImageColor | pdf<br>ImageComp | pdf<br>ImageBpc | pdf<br>ImageInterp | pdf<br>ImageSize | pdf<br>ImageRatio |
 |---------|---------------|----------|---------------|--------------|-------------|----------------|--------------|---------------|
 | 1       | ADOBE_DEFLATE | -d       | gray          | 1            | 1           | no             | 8336B        | 26%           |
 | 1       | ADOBE_DEFLATE | -j       | gray          | 1            | 1           | no             | 8336B        | 26%           |
