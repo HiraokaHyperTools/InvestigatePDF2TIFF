@@ -1,0 +1,60 @@
+%PDF-1.1 
+%‚„œ”
+1 0 obj
+<< 
+/Type /Catalog 
+/Pages 3 0 R 
+>>
+endobj
+2 0 obj
+<< 
+/CreationDate (D:20190112092132)
+/ModDate (D:20190112092132)
+/Producer (libtiff / tiff2pdf - 20150912)
+>> 
+endobj
+3 0 obj
+<< 
+/Type /Pages 
+/Kids [ 4 0 R ] 
+/Count 1 
+>> 
+endobj
+4 0 obj
+<<
+/Type /Page 
+/Parent 3 0 R 
+/MediaBox [0.0000 0.0000 554.0000 470.0000] 
+/Contents 5 0 R 
+/Resources << 
+/XObject <<
+/Im1 7 0 R >>
+/ProcSet [ /ImageC ]
+>>
+>>
+endobj
+5 0 obj
+<< 
+/Length 6 0 R 
+ >>
+stream
+q  554.0000 0.0000 0.0000 470.0000 0.0000 0.0000 cm /Im1 Do Q
+
+endstream
+endobj
+6 0 obj
+62
+endobj
+7 0 obj
+<< 
+/Length 8 0 R 
+/Type /XObject 
+/Subtype /Image 
+/Name /Im1
+/Width 554
+/Height 470
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB 
+/Filter /DCTDecode /DecodeParms << /ColorTransform 1 >>
+ >>
+stream
